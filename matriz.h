@@ -2,8 +2,6 @@
 #define MATRIX_H
 #include <iostream>
 using namespace std;
-using std::string;
-
 template<class T>
 class Matrix
 {
